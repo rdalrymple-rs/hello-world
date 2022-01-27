@@ -1,2 +1,2 @@
-# hello-world2
+# hello-world
 Sample repository for git learning purposes
